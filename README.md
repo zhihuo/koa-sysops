@@ -12,7 +12,7 @@ cnpm install
 <!-- ```js -->
 npm start
 
-#### 4.启动项目
+#### 4. 目录结构
 ```
 --- dbtemplate 数据库的连接
 

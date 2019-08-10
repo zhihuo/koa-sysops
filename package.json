@@ -1,0 +1,28 @@
+{
+  "name": "yid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-register": "^6.26.0",
+    "ejs": "^2.6.2",
+    "glob": "^7.1.4",
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-compose": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.12.2",
+    "koa-views": "^6.2.0",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.2.17",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
