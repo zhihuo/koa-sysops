@@ -13,7 +13,6 @@ router.get('/usertables', async (ctx, next) => {
     ts: 12345
   }
   ctx.body = result
-  // return result
 })
 
 module.exports = router
